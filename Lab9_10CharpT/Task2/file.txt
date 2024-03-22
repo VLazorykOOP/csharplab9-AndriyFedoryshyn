@@ -1,0 +1,10 @@
+Apple
+Banana
+Orange
+Grape
+Pineapple
+Kiwi
+Melon
+Cherry
+Strawberry
+Apricot
